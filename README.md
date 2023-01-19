@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Rogério Ferreira Martins 😁😃😄
 
 <div>
-    <a href="(https://github.com/13roger10)">
+    <a href="https://github.com/13roger10">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=13roger10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13roger10&layout=compact&langs_count=6&theme=tokyonight"/>
 
