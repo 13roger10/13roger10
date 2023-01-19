@@ -7,13 +7,7 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13roger10&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-  <div> 
- 
-  ![Snake animation](https://github.com/13roger10/13roger10/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-  
+</div><br>
   ## Tecnologias que eu uso no meu dia a dia!😁
 <div style="display: inline_block">
       <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
