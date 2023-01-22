@@ -5,7 +5,8 @@
  <div>
    <a href="https://github.com/13roger10">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=13roger10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div><br>
+</div>
+
   ## Tecnologias que eu uso no meu dia a dia!😁
 <div style="display: inline_block">
       <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
