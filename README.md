@@ -1,8 +1,10 @@
 ## Olá! Eu sou o Rogério Ferreira Martins 😃
 <div>
   <a href="https://www.linkedin.com/in/rogerio-martins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><div>
+   <a href="https://github.com/13roger10">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=13roger10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
- <hr>
 
   ## Tecnologias que eu uso no meu dia a dia!😁
 <div style="display: inline_block">
